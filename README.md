@@ -5,8 +5,8 @@
 
   # What is Johan Doing?:thinking: 
 - Currently I am:
-  - 🦆 Building Code With Ducks, a program designed to teach high school students programming and machine learning, and artificial intelligence instructed by Stevens students
-  - 🍽️ Developing Dishcovery, a Tinder-like app designed to help users discover restaurants and coffee spots tailored to their preferences in major cities
+  - 🦆 Building "Code With Ducks", a program designed to teach high school students programming and machine learning, and artificial intelligence instructed by Stevens students
+  - 🍽️ Developing "Dishcovery", a Tinder-like app designed to help users discover restaurants and coffee spots tailored to their preferences in major cities
   - 🤖 Working on "EngBot," an AI-driven platform that delivers English lessons customized to the user's personal background and experiences
   - 💻 Developer at Stevens Blueprint, building technologies for the nonprofit organization InReach.org
   - 👨‍💻 Grinding LeetCode
