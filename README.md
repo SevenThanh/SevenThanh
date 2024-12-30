@@ -3,12 +3,20 @@
 - 🤖 I'm also spearheading "EngBot," an AI-driven platform that delivers English lessons customized to the user's personal background and experiences.
 - 🖥 I was a Fullstack Developer Intern at Contentstack Fall 2024.
 
+  # :round_pushpin: What is Johan Doing?
+- :clipboard: Currently I am:
+  - Self-teaching AI / Machine Learning
+  - Grinding LeetCode
+  - Interning for NUKEMAP this summer
+  - Participating in Launchpad@Stevens
+-----
+
 # Tech Stack
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,pytorch,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
 
 [![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,aws,postgres,redis,vercel,figma&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,aws,postgres,redis,vercel,figma&theme=dark)](https://skillicons.dev) 
 
 
 <!---
