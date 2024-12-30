@@ -4,7 +4,7 @@
 - Software Application Developer Intern at Inchtone Global Spring 2024
 - You can visit my personal website for more information
 
-  # :thinking_face:  What is Johan Doing? 
+### :thinking_face:  What is Johan Doing? 
 - Currently I am:
   - 🦆 Building "Code With Ducks", a program designed to teach high school students programming and machine learning, and artificial intelligence instructed by Stevens students
   - 🍽️ Developing "Dishcovery", a Tinder-like app designed to help users discover restaurants and coffee spots tailored to their preferences in major cities
