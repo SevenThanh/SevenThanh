@@ -1,4 +1,4 @@
-- 👋Hi, CS + Math with May 2027 expected graduation date at Stevens Institute of Technology.
+- 👋Hi, CS + Math student with an expected graduation date of May 2027 from Stevens Institute of Technology
 - 🦆 I'm leading a group of students to develop "Code With Ducks," a program designed to teach high school students programming and machine learning, and artificial intelligence instructed by Stevens students.
 - 🤖 I'm also spearheading "EngBot," an AI-driven platform that delivers English lessons customized to the user's personal background and experiences.
 - 🖥 I was a Fullstack Developer Intern at Contentstack Fall 2024.
