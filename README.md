@@ -1,9 +1,10 @@
-- 👋Hi, CS + Math student with an expected graduation date of May 2027 from Stevens Institute of Technology
+### 👋Hello there, I am a 
+- CS + Math student with an expected graduation date of May 2027 from Stevens Institute of Technology
 - Fullstack Developer Intern at Contentstack Fall 2024
 - Software Application Developer Intern at Inchtone Global Spring 2024
 - You can visit my personal website for more information
 
-  #:thinking:  What is Johan Doing? 
+  # :thinking_face:  What is Johan Doing? 
 - Currently I am:
   - 🦆 Building "Code With Ducks", a program designed to teach high school students programming and machine learning, and artificial intelligence instructed by Stevens students
   - 🍽️ Developing "Dishcovery", a Tinder-like app designed to help users discover restaurants and coffee spots tailored to their preferences in major cities
