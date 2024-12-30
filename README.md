@@ -1,14 +1,15 @@
 - 👋Hi, CS + Math student with an expected graduation date of May 2027 from Stevens Institute of Technology
-- 🦆 I'm leading a group of students to develop "Code With Ducks," a program designed to teach high school students programming and machine learning, and artificial intelligence instructed by Stevens students.
-- 🤖 I'm also spearheading "EngBot," an AI-driven platform that delivers English lessons customized to the user's personal background and experiences.
-- 🖥 I was a Fullstack Developer Intern at Contentstack Fall 2024.
+- Fullstack Developer Intern at Contentstack Fall 2024
+- Software Application Developer Intern at Inchtone Global Spring 2024
+- You can visit my personal website for more information
 
-  # :round_pushpin: What is Johan Doing?
-- :clipboard: Currently I am:
-  - Self-teaching AI / Machine Learning
-  - Grinding LeetCode
-  - Interning for NUKEMAP this summer
-  - Participating in Launchpad@Stevens
+  # What is Johan Doing?:thinking: 
+- Currently I am:
+  - 🦆 Building Code With Ducks, a program designed to teach high school students programming and machine learning, and artificial intelligence instructed by Stevens students
+  - 🍽️ Developing Dishcovery, a Tinder-like app designed to help users discover restaurants and coffee spots tailored to their preferences in major cities
+  - 🤖 Working on "EngBot," an AI-driven platform that delivers English lessons customized to the user's personal background and experiences
+  - 💻 Developer at Stevens Blueprint, building technologies for the nonprofit organization InReach.org
+  - 👨‍💻 Grinding LeetCode
 -----
 
 # Tech Stack
