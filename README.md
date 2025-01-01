@@ -9,7 +9,7 @@
 - 🍽️ Developing "Dishcovery", a Tinder-like app designed to help users discover restaurants and coffee spots tailored to their preferences in major cities
 - 🤖 Working on "EngBot," an AI-driven platform that delivers English lessons customized to the user's personal background and experiences
 - 💻 Developer at Stevens Blueprint, building technologies for the nonprofit organization InReach.org
-- 👨‍💻 Grinding LeetCode
+- 👨‍💻 Practicing LeetCode
 -----
 
 ### Tech Stack
