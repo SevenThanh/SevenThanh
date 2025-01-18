@@ -5,7 +5,7 @@
 - You can visit my personal website for more! (still updating sorry...)
 
 ### :thinking:  What is Johan Doing? 
--  🦆 Building "Code With Ducks", a program designed to teach high school students programming and machine learning, and artificial intelligence instructed by Stevens students
+-  🦆 Building "Code With Ducks", a program designed to teach high school students programming, machine learning, and artificial intelligence instructed by Stevens students
 - 🤖 Working on "EngBot," an AI-driven platform that delivers English lessons customized to the user's personal background and experiences
 - 💻 Developer at Stevens Blueprint, building technologies for the nonprofit organization InReach.org
 - 👨‍💻 Practicing LeetCode
