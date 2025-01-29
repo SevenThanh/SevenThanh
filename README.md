@@ -1,11 +1,12 @@
 ### 👋Hello there, I am a 
 - CS + Math student with expected graduation date of May 2027 from Stevens Institute of Technology
-- Fullstack Developer Intern at Contentstack Fall 2024
-- Software Application Developer Intern at Inchtone Global Spring 2024
+- Fullstack Developer Intern @Contentstack Fall 2024
+- Software Application Developer Intern @Inchtone Global Spring 2024
+- Software Engineering Fellowship @Headstarter AI
 - You can visit my personal website for more! (still updating sorry...)
 
 ### :thinking:  What is Johan Doing?
--  🦆 Building "Code With Ducks", a program designed to teach high school students programming, machine learning, and artificial intelligence instructed by Stevens students
+- 🦆 Building "Code With Ducks", a program designed to teach high school students programming, machine learning, and artificial intelligence instructed by Stevens students
 - 🤖 Working on "EngBot," an AI-driven platform that delivers English lessons customized to the user's personal background and experiences
 - 💻 Developer at Stevens Blueprint, building technologies for the nonprofit organization InReach.org
 - 👨‍💻 Practicing LeetCode
