@@ -6,8 +6,7 @@
 - You can visit my personal website for more! (still updating sorry...)
 
 ### :thinking:  What is Johan Doing?
-- 🦆 Building "Code With Ducks", a program designed to teach high school students programming, machine learning, and artificial intelligence instructed by Stevens students
-- 💻 Tech Lead at Stevens Blueprint, building technologies for the nonprofit organization InReach.org, NJAppleSeed
+- 💻 Tech Lead at Stevens Blueprint, building technologies for the nonprofit organization InReach.org, NJAppleseed
 - 👨‍💻 Practicing LeetCode
 -----
 
