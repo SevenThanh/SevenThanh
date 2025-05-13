@@ -3,7 +3,7 @@
 - Fullstack Developer Intern @Contentstack Fall 2024
 - Software Engineering Fellowship @Headstarter AI and Research Assistant @Stevens Summer 2024
 - Software Application Developer Intern @Inchtone Global Spring 2024
-- VP of Software Engineering Organization Spring 2025
+- VP of Software Engineering Organization Spring&Fall 2025 
 - You can visit my personal website for more! (still updating sorry...)
 
 ### :thinking:  What is Johan Doing?
