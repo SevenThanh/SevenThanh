@@ -9,6 +9,7 @@
 ### :thinking:  What is Johan Doing?
 - 💻 Technical Lead at Stevens Blueprint, building technologies for the nonprofit organization InReach.org, NJAppleseed
 - 👨‍💻 Practicing LeetCode
+- Tech Developer Intern at SEO (0.04% acceptance rate for my cohort)
 -----
 
 ### Tech Stack
