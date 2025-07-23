@@ -1,15 +1,12 @@
 ### 👋Hello there, I am a 
-- CS + Math student with expected graduation date of May 2027 from Stevens Institute of Technology
+- CS/Math student with expected graduation date of May 2027 from Stevens Institute of Technology
 - Fullstack Developer Intern @Contentstack Fall 2024
 - Software Engineering Fellowship @Headstarter AI and Research Assistant @Stevens Summer 2024
-- Software Application Developer Intern @Inchtone Global Spring 2024
-- VP of Software Engineering Organization Spring&Fall 2025 
-- You can visit my personal website for more! (still updating sorry...)
+- VP of Software Engineering Organization Spring&Fall 2025
 
 ### :thinking:  What is Johan Doing?
-- 💻 Technical Lead at Stevens Blueprint, building technologies for the nonprofit organization InReach.org, NJAppleseed
-- 👨‍💻 Practicing LeetCode
 - Tech Developer Intern at SEO (0.04% acceptance rate for my cohort)
+- Building a research platform for Dr. Rabinovitch
 -----
 
 ### Tech Stack
