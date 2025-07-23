@@ -7,7 +7,7 @@
 
 ### :thinking:  What is Johan Doing?
 - Tech Developer Intern at SEO (0.04% acceptance rate for my cohort)
-- Building a research platform for Dr. Rabinovitch
+- Building a research platform for Dr. Rabinovitch so he can show his rockets (ex-NASA). 
 - Leetcode
 -----
 
