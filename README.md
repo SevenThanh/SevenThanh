@@ -6,7 +6,7 @@
 - SWE Fellowship @Headstarter AI and ML Research Assistant @Stevens Summer 2024
 
 ### :thinking:  What is Johan Doing?
-- Tech Developer Intern at SEO (0.04% acceptance rate for my cohort)
+- Tech Developer Intern at SEO (0.04% acceptance rate for my cohort). Built IntelliSpeech, won Best Overall Award. 
 - Building a research platform for Dr. Rabinovitch so he can show his rockets (ex-NASA).
 - [Purr-fect](https://purr-fect-two.vercel.app/): A cat matching adoption system
 - Leetcode
