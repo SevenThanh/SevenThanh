@@ -3,7 +3,6 @@
 - Tech Lead @Stevens Blueprint, worked on: Inreach.org, endmeddebtnj.org 
 - VP of Software Engineering Org Spring&Fall 2025
 - Fullstack Developer Intern @Contentstack Fall 2024
-- SWE Fellowship @Headstarter AI and ML Research Assistant @Stevens Summer 2024
 
 ### :thinking:  What is Johan Doing?
 - Tech Developer Intern at SEO (0.04% acceptance rate for my cohort). Built IntelliSpeech, won Best Overall Award. 
