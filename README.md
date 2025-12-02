@@ -2,13 +2,11 @@
 - CS/Math student, graduation date: May 2027 from Stevens Institute of Technology
 - Tech Lead @Stevens Blueprint, worked on: Inreach.org, endmeddebtnj.org 
 - VP of Software Engineering Org Spring&Fall 2025
-- Fullstack Developer Intern @Contentstack Fall 2024
+- Full-stack Developer Intern @Contentstack Fall 2024
 
 ### :thinking:  What is Johan Doing?
-- Tech Developer Intern at SEO (0.04% acceptance rate for my cohort). Built IntelliSpeech, won Best Overall Award. 
-- Building a research platform for Dr. Rabinovitch so he can show his rockets (ex-NASA).
-- [Purr-fect](https://purr-fect-two.vercel.app/): A cat matching adoption system
-- Leetcode
+- Building a bunch of projects I like
+- Focus on my academics these ML classes have so much mathh.
 -----
 
 ### Tech Stack
