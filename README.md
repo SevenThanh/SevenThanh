@@ -6,7 +6,6 @@
 
 ### :thinking:  What is Johan Doing?
 - Building a bunch of projects I like
-- Focus on my academics these ML classes have so much mathh.
 -----
 
 ### Tech Stack
